@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Маргарита",
+        "size": "Голяма",
+        "price": "17.99",
+        "products": "Пилешко филе, царевица, домати, кашкавал",
+        "dough": "Италиански стил",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxEPJmCTs_IZWAwkI0FnUXUSsH3BaysUjNNw&usqp=CAU",
+        "quantity": 100,
+        "isAvailable": true
+    },
+    {
+        "name": "Капричоза",
+        "size": "Голяма",
+        "price": "17.99",
+        "products": "Пилешко филе, царевица, домати, кашкавал",
+        "dough": "Традиционен стил",
+        "imageUrl": "https://pizzalider.com.ua/wp-content/uploads/2021/03/pizz-ldrtop01-1024x896.jpg",
+        "quantity": 100,
+        "isAvailable": true
+    },
+    {
+        "name": "Пеперони",
+        "size": "Голяма",
+        "price": "17.99",
+        "products": "Салам пеперони, кашкавал, моцарела, маслини",
+        "dough": "Традиционен стил",
+        "imageUrl": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?w=1060&t=st=1692300971~exp=1692301571~hmac=b946bef064f3fa4dfffdc71c1fe1d2548119ab2d19cce7ae817a3158c7c53d66",
+        "quantity": 100,
+        "isAvailable": true
+    },
+    {
+        "name": "Веган пица",
+        "size": "Голяма",
+        "price": "13.99",
+        "products": "Доматен сос, гъби, маслини, пипер",
+        "dough": "Италиански стил",
+        "imageUrl": "https://img.freepik.com/free-photo/view-pizza-wooden-background_23-2148601580.jpg?w=1060&t=st=1692955300~exp=1692955900~hmac=c5fdd0bba1068b0a2a0072a16ab6fffaecd0cab820e3113cd0b84ad0349f8b7e",
+        "quantity": 100,
+        "isAvailable": true
+    }
+]
+
+
